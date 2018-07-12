@@ -1,5 +1,5 @@
 # Web-Scrapping
-This is python script to demonstrate the Web Scrapping.
+This is python script to demonstrate the Web Scrapping.(using BeautifulSoup)
 
 ---------------------------------------------------------------------------------------------------------
 
