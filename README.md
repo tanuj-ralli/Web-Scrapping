@@ -4,7 +4,7 @@ This is python script to demonstrate the Web Scrapping.(using BeautifulSoup)
 ---------------------------------------------------------------------------------------------------------
 
 In this script code has been written to download the course content of two courses of Coursera:
-1) Deel Learning
+1) Deep Learning
 2) Advance Machine Learning
 
 ---------------------------------------------------------------------------------------------------------
